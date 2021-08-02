@@ -1,7 +1,5 @@
 ### Hi there, I'm Ritzy 👩‍💻
 
-##
-
 <div>
   <a href="http://bit.do/RitzyVexGithub">
     <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=RitzyVex&show_icons=true&theme=tokyonight" />
