@@ -2,7 +2,7 @@
 
 <div>
   <a href="http://bit.do/RitzyVexGithub">
-    <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=RitzyVex&show_icons=true&theme=tokyonight" />
+    <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=RitzyVex&show_icons=true&theme=tokyonight&count_private=true" />
     <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RitzyVex&theme=tokyonight" />
   </a>
 </div>
