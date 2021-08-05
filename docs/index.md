@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-    <body>
+    <head>
         <meta http-equiv="refresh" content="0; URL=https://ritzyvex684.wixsite.com/website" />
-    </body>
+    </head>
 </html>
