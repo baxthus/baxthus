@@ -1,7 +1,7 @@
 ### Hi there, I'm Ritzy 👩‍💻
 
 <div>
-  <a href="http://bit.do/RitzyVexGithub">
+  <a href="https://kutt.it/RitzyVexGithub">
     <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=RitzyVex&show_icons=true&theme=tokyonight&count_private=true" />
     <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RitzyVex&theme=tokyonight&count_private=true" />
   </a>
@@ -22,7 +22,7 @@
 ##
 
 <div>
-  <a href="http://bit.do/RitzyVex" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://kutt.it/RitzyVexTT" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://t.me/RitzyVex" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="mailto:ritzyvex684@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   
