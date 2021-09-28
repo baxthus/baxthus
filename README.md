@@ -28,3 +28,11 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+#### We accept donations
+
+<div>
+  BTC: <a href="bitcoin:bc1qspqkgle0u8n6a09rfv62nugn8ghkcvgh7nyj5w">bc1qspqkgle0u8n6a09rfv62nugn8ghkcvgh7nyj5w</a><br>
+  ETH: <a href="ethereum:0x17c494ad62B80f54766f03726C623381977BB40a">0x17c494ad62B80f54766f03726C623381977BB40a</a><br>
+  XMR: <a href="monero:475Ug7rLP78c5KDJ8NMrBWR6d95dMaceDK2sJy7cw9pRQu6u7As8eY118gAPRLQUdnBu4pAeUAm5hZyUS6uVwBBnNAXC3Bo">475Ug7rLP78c5KDJ8NMrBWR6d95dMaceDK2sJy7cw9pRQu6u7As8eY118gAPRLQUdnBu4pAeUAm5hZyUS6uVwBBnNAXC3Bo</a><br>
+</div>
