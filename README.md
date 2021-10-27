@@ -10,7 +10,7 @@
   <img align="center" alt="lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
 </div>
 
-##
+<br>
 
 <div>
   <a href="https://kutt.it/RitzyVexGL" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
