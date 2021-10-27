@@ -30,7 +30,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-### I accept donation
+### I accept donations
 
 <div>
   BTC: <a href="bitcoin:bc1qspqkgle0u8n6a09rfv62nugn8ghkcvgh7nyj5w">bc1qspqkgle0u8n6a09rfv62nugn8ghkcvgh7nyj5w</a><br>
