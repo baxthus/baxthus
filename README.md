@@ -1,14 +1,5 @@
 ### Hi there, I'm Ritzy 👩‍💻
 
-<div>
-  <a href="https://kutt.it/RitzyVexGithub">
-    <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=RitzyVex&show_icons=true&theme=tokyonight&count_private=true" /><br>
-    <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RitzyVex&theme=tokyonight&count_private=true" />
-  </a>
-</div>
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
