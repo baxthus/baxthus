@@ -1,4 +1,4 @@
-### Hi there, I'm Ritzy 👩‍💻
+## Hi there, I'm Ritzy 👩‍💻
 
 <div>
   <a href="https://github.com/RitzyVex">
