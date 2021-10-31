@@ -1,5 +1,5 @@
-## Hi there, I'm Ritzy
 <div style="display: inline_block"><br>
+  <h3>Hi there, I'm Ritzy</h3>
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-### I accept donations
+<h3>I accept donations</h3>
 
 <div>
   BTC: <a href="bitcoin:bc1qspqkgle0u8n6a09rfv62nugn8ghkcvgh7nyj5w">bc1qspqkgle0u8n6a09rfv62nugn8ghkcvgh7nyj5w</a><br>
