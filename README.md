@@ -16,7 +16,7 @@
   <a href="https://t.me/RitzyVex" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="mailto:ritzyvex684@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation][snake]
 </div>
 
 <h3>I accept donations</h3>
@@ -28,3 +28,7 @@
   XRP: <a href="ripple:rD7imyCvaWtWieVuyQyQmbiaW7Y8bEqXPb">rD7imyCvaWtWieVuyQyQmbiaW7Y8bEqXPb</a><br>
   DOGE: <a href="dogecoin:DQ9gcZaUS3KetPPLez3pEm8mJjxUA2jc4x">DQ9gcZaUS3KetPPLez3pEm8mJjxUA2jc4x</a>
 </div>
+
+<!-- MarkDown Links -->
+
+[snake]: https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
