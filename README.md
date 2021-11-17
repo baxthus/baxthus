@@ -31,4 +31,4 @@
 
 <!-- MarkDown Links -->
 
-[snake]: https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
+[snake]: https://github.com/Abysmal26/Abysmal26/blob/output/github-contribution-grid-snake.svg
