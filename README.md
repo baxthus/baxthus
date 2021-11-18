@@ -34,3 +34,5 @@
 
 <!--! Isso é atualizado a cada 7 horas -->
 [snake]: https://github.com/Abysmal26/Abysmal26/blob/output/github-contribution-grid-snake.svg
+
+<!--TODO: Hostear as propias imagens -->
