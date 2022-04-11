@@ -13,7 +13,7 @@
  
 <div align="center">
   <a href="https://abysmal26.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://linktr.ee/Abysmal26"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="https://ayo.so/abysmal26"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
   <a href="https://twitter.com/abysmal26"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://t.me/abysmal26"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
@@ -69,5 +69,3 @@ DOGE: [DQ9gcZaUS3KetPPLez3pEm8mJjxUA2jc4x][doge]
 
 <!--! Isso é atualizado a cada 7 horas -->
 [snake]: https://github.com/Abysmal26/Abysmal26/blob/output/github-contribution-grid-snake.svg
-
-<!--TODO: Hostear as propias imagens -->
