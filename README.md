@@ -22,9 +22,9 @@
 
 <br>
 
-* Website: [abysmal26.github.io][website] 🌐
-* Twitter: [abysmal26][twitter] 🐦
-* Contact: [abysmal26@tuta.io][contact] 📞
+* Website: [abysmal26.github.io](https://abysmal26.github.io) 🌐
+* Twitter: [abysmal26](https://twitter.com/abysmal26) 🐦
+* Contact: [abysmal26@tuta.io](mailto:abysmal25@tuta.io) 📞
 
 ### My favorite projects 💻
 
@@ -48,24 +48,7 @@
 ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam)
 ![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-### I accept donation
+### I accept [donations](https://kutt.it/AbysmalDonation)
 
-BTC: [bc1qspqkgle0u8n6a09rfv62nugn8ghkcvgh7nyj5w][btc]<br>
-ETH: [0x17c494ad62B80f54766f03726C623381977BB40a][eth]<br>
-XMR: [475Ug7rLP78c5KDJ8NMrBWR6d95dMaceDK2sJy7cw9pRQu6u7As8eY118gAPRLQUdnBu4pAeUAm5hZyUS6uVwBBnNAXC3Bo][xmr]<br>
-XRP: [rD7imyCvaWtWieVuyQyQmbiaW7Y8bEqXPb][xrp]<br>
-DOGE: [DQ9gcZaUS3KetPPLez3pEm8mJjxUA2jc4x][doge]
-
-<!--* MarkDown Links -->
-
-[btc]: bitcoin:bc1qspqkgle0u8n6a09rfv62nugn8ghkcvgh7nyj5w
-[eth]: ethereum:0x17c494ad62B80f54766f03726C623381977BB40a
-[xmr]: monero:475Ug7rLP78c5KDJ8NMrBWR6d95dMaceDK2sJy7cw9pRQu6u7As8eY118gAPRLQUdnBu4pAeUAm5hZyUS6uVwBBnNAXC3Bo
-[xrp]: ripple:rD7imyCvaWtWieVuyQyQmbiaW7Y8bEqXPb
-[doge]: dogecoin:DQ9gcZaUS3KetPPLez3pEm8mJjxUA2jc4x
-[website]: https://abysmal26.github.io
-[twitter]: https://twitter.com/abysmal26
-[contact]: mailto:abysmal25@tuta.io
-
-<!--! Isso é atualizado a cada 7 horas -->
+<!--* Isso é atualizado a cada 7 horas -->
 [snake]: https://github.com/Abysmal26/Abysmal26/blob/output/github-contribution-grid-snake.svg
