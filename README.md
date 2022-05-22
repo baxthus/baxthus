@@ -20,6 +20,9 @@
   ![Snake animation][snake]
 </div>
 
+[![Abysmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abysmal26&count_private=true&show_icons=true&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abysmal26&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
+
 <br>
 
 * Website: [abysmal26.github.io](https://abysmal26.github.io) 🌐
@@ -28,8 +31,8 @@
 
 ### My favorite projects 💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=gta3script&theme=material-palenight&hide_border=true)](https://github.com/abysmal26/gta3script)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=errorpages&theme=material-palenight&hide_border=true)](https://github.com/abysmal26/errorpages)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=gta3script&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/gta3script)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=errorpages&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/errorpages)
 
 ### Some of the Languages, Tools & etc that i use: 🔧
 
@@ -50,5 +53,5 @@
 
 ### I accept [donations](https://kutt.it/AbysmalDonation)
 
-<!--* Isso é atualizado a cada 7 horas -->
+<!-- This is updated every 7 hours by the Github Workflow -->
 [snake]: https://github.com/Abysmal26/Abysmal26/blob/output/github-contribution-grid-snake.svg
