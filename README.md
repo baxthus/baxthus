@@ -51,7 +51,7 @@
 ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam)
 ![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-### I accept [donations](https://bit.ly/AbysmalDonation)
+### I accept [donations](http://gg.gg/AbysmalDonation)
 
 <!-- This is updated every 7 hours by the Github Workflow -->
 [snake]: https://github.com/Abysmal26/Abysmal26/blob/output/github-contribution-grid-snake.svg
