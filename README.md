@@ -22,7 +22,7 @@
 
 <br>
 
-* Website: [abysmal26.github.io](https://abysmal26.github.io) 🌐
+* Website: [abysmal.is-a.dev](https://abysmal.is-a.dev) 🌐
 * Twitter: [abysmal26](https://twitter.com/abysmal26) 🐦
 * Contact: [abysmal26@tuta.io](mailto:abysmal25@tuta.io) 📞
 
