@@ -1,19 +1,18 @@
 <h2 align="center">Hi there, I'm Abysmal</h2>
 <div style="display: inline_block" align="center">
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="nodejs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
 <br>
  
 <div align="center">
-  <a href="https://abysmal26.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://ayo.so/abysmal26"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="https://abysmal.is-a.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://ayo.so/abysmal26"><img src="https://img.shields.io/badge/ayo-000000?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQzSURBVHgB7ZtRctpIEIa7W5jaSu0D+5DY7IvhBMEnCDnB5gbBG5n4zfYJbJ8g+M3Gylq+QXICcwOTEwQ/kZCH1dPWFkbTmYZAIVuAZJADmnxVWFhMgfpX90zPTAshYXZ324Wub5UtUiVg3GSAgn7lUB/H2+lzLX3O068Wg/rEQE2/q5qum29BgiAkgG23y2jhK8X4111D4yKCAGKDfbx0nKcNWDALE6BS+ZzLZH/fA+Z9QM5BAogYPqtjdQuNRXnG3AI8huH3YPS0V7i9bu9kXiHmEmDnbWePFRw9muF3GHrEP+d5Fx7IgwSoVNqFzJp1oQ0vwxIgQtx21cuHeANBTOSua+Ovl8V4QUaWTJau7eqXfYhJLA+wq513+udi/8jjQkdO/elx1NaRBXjztnOBzBVYAVB3kOdnz7YjtY3SaKf6pcmAz2G1aDr19a1ZjWb2AXLnV9B4oaT7q4tZjaYKYFe/Hq6K24fB+trt6rd309pMDIH+GM9cg1TAB059I9SWUAF+jPPXPyvBSQCv11VbYXlCaAisZekqRcYLuX7iFsI9Af7eaVd4zhncUqITt7BEKRAC4vpy91MpwAAdCv8VXbfoDU8EPCCTtfZSbLygZ65PAl4w8oB+x5fVHR+kKvbDCHjByANoDcoGGC8EvGAkgIV0COawN3zTF0DW8FIe+3fJ2fa3srwZeABRBQyDLf+VHPsC6J7wBZiGXrGWAw56f/oMBpIhVSQrSyUwlK4PZUJQxgqAhCXSsWCuAAoKuhOkTTAVpE3idE17Y8E68yU0KwEKILbH3hhJG78EAMMhqcwAQxHbCWWv3VAQ0NMhoG7AVFjdGB0CeqW4qQXgJhiKVKKRsqABhuKTapJ7mm+ZGAaI0BLbB3kA80cwj4b8GSyJMX8Aw2CfLuU42hixq51/DdkX6Lv/+dl6Ud6PpcL+CRiCr9SoiGokQK/7W01rY0JW6I2PfCMBXPcPzwQv0AtAl9L7D/8PzAbT7gUS+z4Gy34CAgy8oBe5yHDVkNgfv/tCaI2QvdO5WqZS2EUw3vOPE7og0rP87XSFAnq3qF6GfRIqwMBN0hQK911/yMQlMaf+Z42Z0zAqHE+qERRm1gq/qX51daPXsILoSd7l+/p6ZVqbSMXSOk2W2qGV2kJD5E/nZxszrznSqrBTf7YlasKKINcaxXgh8rL4wJXU0neMOtM7meX248TaF3Dq+SOdThws5xAp18QH7882Yj3R8rCHpnbbhTWmK+Yl2VdkbvQs3p401E1jrsfmpK7YIjr8eULIXVdTh7mZ3wBzIt5g+biPSK8fb0EF+zPX3pP/a26tOFc4Lu7RWS0E+VBO1iMWZ/joGyEBpPBSag/1BOTFvGL82L/7yD5/cJx8AxZMIgKM0w8RRSUpxkKg5yII44TH5xk8mbXpmeiNr6iZtfzG6Wmyj89/B6uVsQ/YojXfAAAAAElFTkSuQmCC"></a>
   <a href="https://twitter.com/abysmal26"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://t.me/abysmal26"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
@@ -22,36 +21,19 @@
 
 <br>
 
-* Website: [abysmal.is-a.dev](https://abysmal.is-a.dev) 🌐
-* Twitter: [abysmal26](https://twitter.com/abysmal26) 🐦
-* Contact: [abysmal@disroot.org](mailto:abysmal@disroot.org) 📞
+* Website: [abysmal.is-a.dev](https://abysmal.is-a.dev)
+* Twitter: [abysmal26](https://twitter.com/abysmal26)
+* Contact: [abysmal@disroot.org](mailto:abysmal@disroot.org)
 
 [![Abysmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abysmal26&count_private=true&show_icons=true&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abysmal26&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
 
-### My favorite projects 💻
+### My favorite projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=gta3script&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/gta3script)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=digital-clock&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/digital-clock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=errorpages&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/errorpages)
-
-### Some of the Languages, Tools & etc that i use: 🔧
-
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code)
-![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp)
-![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam)
-![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ### I accept [donations](http://gg.gg/AbysmalDonation)
 
 <!-- This is updated every 7 hours by the Github Workflow -->
-[snake]: https://github.com/Abysmal26/Abysmal26/blob/output/github-contribution-grid-snake.svg
+[snake]: https://github.com/abysmal26/abysmal26/blob/output/github-contribution-grid-snake.svg
