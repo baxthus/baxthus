@@ -33,4 +33,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=digital-clock&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/digital-clock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=errorpages&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/errorpages)
 
-### I accept [donations](http://gg.gg/AbysmalDonation)
+### I accept [donations](https://kutt.it/AbysmalDonation)
