@@ -16,7 +16,7 @@
   <a href="https://twitter.com/abysmal26"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://t.me/abysmal26"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-  ![Snake animation][snake]
+  ![Snake animation](https://github.com/abysmal26/abysmal26/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <br>
@@ -34,6 +34,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=errorpages&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/errorpages)
 
 ### I accept [donations](http://gg.gg/AbysmalDonation)
-
-<!-- This is updated every 7 hours by the Github Workflow -->
-[snake]: https://github.com/abysmal26/abysmal26/blob/output/github-contribution-grid-snake.svg
