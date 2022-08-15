@@ -23,7 +23,7 @@
 
 * Website: [abysmal.is-a.dev](https://abysmal.is-a.dev)
 * Twitter: [abysmal26](https://twitter.com/abysmal26)
-* Contact: [abysmal@disroot.org](mailto:abysmal@disroot.org)
+* Contact: [abysmal@duck.com](mailto:abysmal@duck.com)
 
 [![Abysmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abysmal26&count_private=true&show_icons=true&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abysmal26&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
