@@ -21,7 +21,7 @@
 
 <br>
 
-* Website: [abysmal.is-a.dev](https://abysmal.is-a.dev)
+* Website: [abysmal.eu.org](https://abysmal.eu.org)
 * Twitter: [abysmal26](https://twitter.com/abysmal26)
 * Contact: [abysmal@duck.com](mailto:abysmal@duck.com)
 
