@@ -1,9 +1,10 @@
 <h2 align="center">Hi there, I'm Abysmal</h2>
 <div style="display: inline_block" align="center">
+  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="nodejs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
@@ -25,12 +26,13 @@
 * Twitter: [abysmal26](https://twitter.com/abysmal26)
 * Contact: [abysmal@disroot.org](mailto:abysmal@disroot.org)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/505432621086670872?hideTimestamp=true&bg=161320)](https://discord.com/users/505432621086670872)
 [![Abysmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abysmal26&count_private=true&show_icons=true&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abysmal26&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
 
 ### My favorite projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=digital-clock&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/digital-clock)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=errorpages&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/errorpages)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=website&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/errorpages)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=digital-clock&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/website)
 
 ### I accept [donations](https://kutt.it/AbysmalDonation)
