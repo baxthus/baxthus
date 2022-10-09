@@ -24,7 +24,7 @@
 
 * Website: [abysmal.eu.org](https://abysmal.eu.org)
 * Twitter: [abysmal26](https://twitter.com/abysmal26)
-* Contact: [matt@abysmal.aa.am](mailto:matt@abysmal.aa.am)
+* Contact: [dev@matt.aa.am](mailto:dev@matt.aa.am)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/505432621086670872?hideTimestamp=true&bg=161320)](https://discord.com/users/505432621086670872)
 [![Abysmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abysmal26&count_private=true&show_icons=true&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
