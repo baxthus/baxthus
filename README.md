@@ -22,13 +22,11 @@
 
 <br>
 
-* Website: [abysmal.eu.org](https://abysmal.eu.org)
-* Twitter: [abysmal26](https://twitter.com/abysmal26)
-* Contact: [dev@matt.aa.am](mailto:dev@matt.aa.am)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/505432621086670872?hideTimestamp=true&bg=161320)](https://discord.com/users/505432621086670872)
-[![Abysmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abysmal26&count_private=true&show_icons=true&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abysmal26&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/abysmal26)
+
+[![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### My favorite projects
 
