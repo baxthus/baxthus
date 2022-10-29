@@ -30,7 +30,7 @@
 
 ### My favorite projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=website&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/errorpages)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=digital-clock&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=AdramelechBot&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/AdramelechBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=website&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/website)
 
 ### I accept [donations](https://kutt.it/AbysmalDonation)
