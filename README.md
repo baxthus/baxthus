@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Abysmal</h2>
-<div style="display: inline_block" align="center">
+<div align="center">
   <img align="center" alt="svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -23,7 +23,8 @@
   <a href="https://twitter.com/abysmal26"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://t.me/abysmal26"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-  ![Snake animation](https://github.com/abysmal26/abysmal26/blob/output/github-contribution-grid-snake.svg)
+  ![Github Snake Light](https://github.com/abysmal26/abysmal26/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](https://github.com/abysmal26/abysmal26/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </div>
 
 <br>
