@@ -23,21 +23,21 @@
   <a href="https://twitter.com/Abysm0xC"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://t.me/Abysm0xC"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-  ![Github Snake Light](https://github.com/abysmal26/abysmal26/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](https://github.com/abysmal26/abysmal26/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Github Snake Light](https://github.com/Abysm0xC/Abysm0xC/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](https://github.com/Abysm0xC/Abysm0xC/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </div>
 
 <br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/505432621086670872?hideTimestamp=true&bg=161320)](https://discord.com/users/505432621086670872)
 
-[![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Abysm0xC/Abysm0xC/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Abysm0xC/Abysm0xC/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Abysm0xC/Abysm0xC/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abysmal26/abysmal26/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### My favorite projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=AdramelechBot&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/AdramelechBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abysmal26&repo=website&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abysm0xC&repo=AdramelechBot&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/AdramelechBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abysm0xC&repo=website&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/abysmal26/website)
 
 ### I accept [donations](https://kutt.it/AbysmalDonation)
