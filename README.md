@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Abysmal</h2>
+<h2 align="center">Hi there, I'm Baxthus</h2>
 <div align="center">
   <img align="center" alt="svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -41,4 +41,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baxthus&repo=AdramelechBot&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/baxthus/AdramelechBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baxthus&repo=website&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/baxthus/website)
 
-### I accept [donations](https://kutt.it/AbysmalDonation)
+### I accept [donations](https://dub.sh/BaxthusDonation)
