@@ -56,9 +56,4 @@
 [![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### My favorite projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baxthus&repo=AdramelechBot&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/baxthus/AdramelechBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baxthus&repo=website&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=true)](https://github.com/baxthus/website)
-
 ### I accept [donations](https://dub.sh/BaxthusDonation)
