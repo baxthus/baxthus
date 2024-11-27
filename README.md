@@ -52,8 +52,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/505432621086670872?hideTimestamp=true&bg=161320)](https://discord.com/users/505432621086670872)
 
-[![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/baxthus/baxthus/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 **_The weakness of my intellect disgusts me. I'm smart enough to care, yet too limited to change it._**
